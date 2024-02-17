@@ -49,6 +49,10 @@ header {
     gap: 90px;
 }
 
+.menu nav{
+    display: flex;
+    gap: 80px;
+}
 .head-logo {
     display: flex;
     flex-direction: row;
@@ -1297,6 +1301,10 @@ nav {
         display: none;
     }
 
+    .menu nav{
+        display: flex;
+        gap: 20px;
+    }
     nav {
         position: fixed;
         width: 100%;
