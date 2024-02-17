@@ -1303,7 +1303,7 @@ nav {
 
     .menu nav{
         display: flex;
-        gap: 19px;
+        gap: 20px;
     }
     nav {
         position: fixed;
